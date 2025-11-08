@@ -30,9 +30,4 @@ Cisco CCNA | Oracle AI Foundation | IBM AI Fundamentals | Scrum Fundamentals
 
 ---
 
-📊 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPVindas&stats_format=bytes)
-
----
-
 > _“Code with purpose. Build with passion.”_ ⚡
