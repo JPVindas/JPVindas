@@ -21,7 +21,6 @@ I enjoy building intelligent web systems and automating processes using **C#, Py
 
 📂 **Projects**  
 - 🦷 *Dental Clinic Management System* – Full-stack automation with ASP.NET + MySQL  
-- 🌱 *Environmental Data Automation (NGO)* – Dashboards with Power BI & WordPress  
 - 🤖 *AI-Assistant Data Analytics* – Gemini API + Python  
 
 ---
