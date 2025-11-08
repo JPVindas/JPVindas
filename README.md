@@ -35,15 +35,8 @@ I’m passionate about **tech, data, and AI**, and love building systems that **
 
 ---
 
-### 💌 Contact Me  
-📬 I’m always open to collaborating, sharing ideas, or just talking about tech!  
-Click below to send me an email directly:  
-
-<p align="center">
-  <a href="mailto:juanpablo.vindass@gmail.com">
-    <img src="https://img.shields.io/badge/📩%20Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-  </a>
-</p>
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpablovindassuarez)
 
 ---
 
