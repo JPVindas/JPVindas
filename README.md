@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Juan Pablo Vindas Suárez  
 
 💻 **Computer Systems Engineer** | 🎓 **Business Management Technician**  
-📍 Costa Rica | [LinkedIn](https://www.linkedin.com/in/juanpablovindassuarez) | [GitHub](https://github.com/JPVindas)
+📍 Costa Rica | [Portfolio](https://jpvindas.github.io/Portfolio--JPVS/) | [LinkedIn](https://www.linkedin.com/in/juanpablovindassuarez) | [GitHub](https://github.com/JPVindas)
 
 ---
 
@@ -19,9 +19,9 @@ I enjoy building intelligent web systems and automating processes using **C#, Py
 
 ---
 
-📂 **Projects**  
-- 🦷 *Dental Clinic Management System* – Full-stack automation with ASP.NET + MySQL  
-- 🤖 *AI-Assistant Data Analytics* – Gemini API + Python  
+🎓 **Education**  
+- 🎯 **B.S. in Computer Systems Engineering** — *Universidad Fidélitas (2023–2025)*  
+- 💼 **Technical Degree in Business Management** — *Universidad Fidélitas (2024–2025)*  
 
 ---
 
