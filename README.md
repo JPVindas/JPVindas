@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Juan Pablo Vindas Suárez  
 
 💻 **Computer Systems Engineer** | 🎓 **Business Management Technician**  
-📍 Costa Rica | [Portfolio](https://jpvindas.github.io/Portfolio--JPVS/) | [LinkedIn](https://www.linkedin.com/in/juanpablovindassuarez) | [GitHub](https://github.com/JPVindas)
+📍 Costa Rica | [🌐 Portfolio](https://jpvindas.github.io/Portfolio--JPVS/) | [💼 LinkedIn](https://www.linkedin.com/in/juanpablovindassuarez) | [🐙 GitHub](https://github.com/JPVindas)
 
 ---
 
@@ -27,6 +27,11 @@ I enjoy building intelligent web systems and automating processes using **C#, Py
 
 🏅 **Certifications**  
 Cisco CCNA | Oracle AI Foundation | IBM AI Fundamentals | Scrum Fundamentals  
+
+---
+
+📊 **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPVindas&stats_format=bytes)
 
 ---
 
